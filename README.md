@@ -1,5 +1,4 @@
 # hello-world
 my first repository
 
-Im Neosbuster
-Starting with github
+I Love :coffee: :pizza:, and :dancer:.
